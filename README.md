@@ -1,5 +1,17 @@
-# Tech-E
-A website for the University of Texas at El Paso's Technology Explorer program
+<h1 align="center">
+  <br>
+  <img src="teche.jpg" alt="teche" width="200"></a>
+  <br>
+  Tech-E Site
+  <br>
+  </h1>
+  
+ <h4 align = "center">A website for UTEP's Tech-E program under Learning Environments</h4>
+ <p align = "center">
+  <a href="#dependencies">Dependencies</a> |
+  <a href="#setup">Setup</a> |
+  <a href="#deploy">Deploy</a> |
+ </p>
 
 ### Dependencies
 This site is built with Ruby and uses the Gem package manager. Both need to be installed to deploy and serve the website.
