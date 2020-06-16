@@ -13,11 +13,11 @@ This site is built with Ruby and uses the Gem package manager. Both need to be i
 3. This should not be necessary, but just in case, run the command `bundle install`.
 3. Once in the directory run the following command, `bundle exec jekyll serve`
 4. Verify that the `Gemfile` contains the jem for Search Engine Optimization:
-```
+```ruby
 gem 'jekyll-seo-tag'
 ```
 and that the `_config.yml` file has the following:
-```
+```yml
 plugins:
   - jekyll-seo-tag
 ```
