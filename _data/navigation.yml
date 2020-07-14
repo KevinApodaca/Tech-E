@@ -1,0 +1,28 @@
+- name: About Us
+  link: /about/
+  new_window: false
+  highlight: false
+- name: SISD
+  link: /blog/
+  new_window: false
+  highlight: false
+- name: Summer Camps
+  link: /camps/
+  new_window: false
+  highlight: false
+- name: Outreach
+  link: /outreach/
+  new_window: false
+  highlight: false
+- name: Tech-E Teach
+  link: /techeteach/
+  new_window: false
+  highlight: false
+- name: Contact Us
+  link: /contact/
+  new_window: false
+  highlight: false
+- name: Learning Environments
+  link: /
+  new_window: false
+  highlight: true

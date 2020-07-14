@@ -1,0 +1,37 @@
+- links:
+  - name: About Us
+    link: /about/
+  - name: SISD
+    link: /blog/
+  - name: Summer Camps
+    link: /pricing/
+- links:
+  - name: Outreach
+    link: /
+    new_window: true
+  - name: Tech-E Teach
+    link: /
+    new_window: true
+  - name: Contact Us
+    link: /contact/
+    new_window: true
+  - name: Learning Environments
+    link: https://learning.at.utep.edu
+    new_window: true
+- links:
+  - name: Facebook
+    link: https://www.facebook.com/utepteche
+    new_window: true
+    social_icon: Facebook
+  - name: Twitter
+    link: https://twitter.com/UTEPTechE
+    social_icon: Twitter
+    new_window: true
+  - name: YouTube
+    link: 
+    social_icon: YouTube
+    new_window: true
+  - name: Instagram
+    link: https://www.instagram.com/utepteche/
+    social_icon: Instagram
+    new_window: true
